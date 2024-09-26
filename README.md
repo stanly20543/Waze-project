@@ -34,7 +34,7 @@ An accurate model can also help identify specific factors that contribute to chu
 -**COnclusion**:<br>
  There is not a statistically significant difference in mean number of rides between iPhone users and Android users.<br>
 
-### **Part4: Build linear regression model**
+### **Part4: Build logistic regression model**
 
 -**Target**:<br>
  To build a regression model to predict user churn based on a variety of variables.
